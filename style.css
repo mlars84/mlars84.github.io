@@ -27,7 +27,9 @@ p {
 	font-family: 'proxima-nova';
 	background-color: lightblue;
 }
-
+img {
+    border-radius: 8px;
+}
 .hero a {
 	color: #212121;
 	font-size: 24px;
