@@ -7,15 +7,6 @@ body {
 	width: 100%;
 	background-color: lightblue;
 }
-div.vertical-line{
-      width: 1px;
-      background-color: silver;
-      height: 100%;
-      float: left;
-      border: 2px ridge silver ;
-      border-radius: 2px;
-    }
-
 h1 {
 	font-size: 32px;
 	font-family: 'proxima-nova';
