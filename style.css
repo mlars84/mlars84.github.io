@@ -6,6 +6,7 @@ body {
 	text-align: center;
 	width: 100%;
 	background-color: lightblue;
+	background-size: cover;
 }
 h1 {
 	font-size: 32px;
