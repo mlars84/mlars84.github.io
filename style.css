@@ -6,34 +6,38 @@ body {
 	text-align: center;
 	width: 100%;
 	background-color: lightblue;
-	background-image: <img src="https://www.instagram.com/p/BGxaCBzhpJA/?taken-by=mattlarsonmusic">
 }
 
 h1 {
 	font-size: 32px;
+	font-family: 'proxima-nova';
 	color: #212121;
 }
 
 h2 {
 	color: #212121;
 	font-size: 56px; 
+	font-family: 'proxima-nova';
 	font-style: italic;
 }
 p {
 	color: #212121;
 	font-size: 2em;
 	font-style: italic;
+	font-family: 'proxima-nova';
 	background-color: lightblue;
 }
 
 .hero a {
 	color: #212121;
 	font-size: 24px;
+	font-family: 'proxima-nova';
 	text-decoration: none;
 }
 
 #footer {
 	color: #212121;
+	font-family: 'proxima-nova';
 	font-size: 16px;
 }
 body {
