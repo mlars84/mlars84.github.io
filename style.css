@@ -17,20 +17,6 @@ h2 {
 	font-size: 56px; 
 	font-style: italic;
 }
-
-
-.hero {
-	background-image: url('https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-2/bg.jpg');
-	background-position: center top;
-	background-size: cover;
-	background-color: lightblue;
-	padding: 250px 0;
-	margin: 30px;
-	text-shadow: 0 2px #000000;
-	font-family: 'Trebuchet MS', 'Helvetica';
-}
-
-
 p {
 	color: #212121;
 	font-size: 2em;
@@ -45,7 +31,7 @@ p {
 }
 
 #footer {
-	color: black;
+	color: #212121;
 	font-size: 16px;
 }
 body {
