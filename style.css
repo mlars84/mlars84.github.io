@@ -4,6 +4,7 @@ body {
 	margin: 0;
 	text-align: center;
 	width: 100%;
+	background-color: lightblue;
 }
 
 h1 {
@@ -20,6 +21,7 @@ h2 {
 	background-image: url('https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-2/bg.jpg');
 	background-position: center top;
 	background-size: cover;
+	background-color: lightblue;
 	padding: 250px 0;
 	margin: 30px;
 	text-shadow: 0 2px #000000;
@@ -30,6 +32,7 @@ h2 {
 p {
 	color: #ffffff;
 	font-size: 2em;
+	background-color: lightblue;
 }
 
 .hero a {
@@ -43,8 +46,5 @@ p {
 	font-size: 16px;
 }
 body {
-    background-color: #0000FF;
-}
-head {
-    background-color: #0000FF;
+    background-color: lightblue;
 }
