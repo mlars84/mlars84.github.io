@@ -2,7 +2,7 @@ body {
 	font-family: Lato;
 	height: 100%;
 	margin: 0;
-	color: #fd5e53;
+	color: #212121;
 	text-align: center;
 	width: 100%;
 	background-size: cover;
@@ -10,17 +10,17 @@ body {
 h1 {
 	font-size: 32px;
 	font-family: Lato;
-	color: #fd5e53;
+	color: #212121;
 }
 
 h2 {
-	color: #fd5e53;
+	color: #212121;
 	font-size: 56px; 
 	font-family: Lato;
 	font-style: italic;
 }
 p {
-	color: #fd5e53;
+	color: #212121;
 	font-size: 2em;
 	font-style: italic;
 	font-family: Lato;
@@ -30,13 +30,13 @@ img {
     border-radius: 8px;
 }
 .hero a {
-	color: #fd5e53;
+	color: #212121;
 	font-size: 24px;
 	font-family: Lato;
 	text-decoration: none;
 }
 #footer {
-	color: #fd5e53;
+	color: #212121;
 	font-family: Lato;
 	font-size: 16px;
 }
