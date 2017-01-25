@@ -11,17 +11,17 @@ body {
 h1 {
 	font-size: 32px;
 	font-family: Lato;
-	color: #212121;
+	color: coral orange;
 }
 
 h2 {
-	color: #212121;
+	color: coral orange;
 	font-size: 56px; 
 	font-family: Lato;
 	font-style: italic;
 }
 p {
-	color: #212121;
+	color: coral orange;
 	font-size: 2em;
 	font-style: italic;
 	font-family: Lato;
@@ -31,13 +31,13 @@ img {
     border-radius: 8px;
 }
 .hero a {
-	color: #212121;
+	color: coral orange;
 	font-size: 24px;
 	font-family: Lato;
 	text-decoration: none;
 }
 #footer {
-	color: #212121;
+	color: coral orange;
 	font-family: Lato;
 	font-size: 16px;
 }
