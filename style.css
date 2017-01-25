@@ -2,7 +2,7 @@ body {
 	font-family: Lato;
 	height: 100%;
 	margin: 0;
-	color: coral orange;
+	color: orange;
 	text-align: center;
 	width: 100%;
 	background-color: lightblue;
@@ -11,17 +11,17 @@ body {
 h1 {
 	font-size: 32px;
 	font-family: Lato;
-	color: coral orange;
+	color: orange;
 }
 
 h2 {
-	color: coral orange;
+	color: orange;
 	font-size: 56px; 
 	font-family: Lato;
 	font-style: italic;
 }
 p {
-	color: coral orange;
+	color: orange;
 	font-size: 2em;
 	font-style: italic;
 	font-family: Lato;
@@ -37,7 +37,7 @@ img {
 	text-decoration: none;
 }
 #footer {
-	color: coral orange;
+	color: orange;
 	font-family: Lato;
 	font-size: 16px;
 }
